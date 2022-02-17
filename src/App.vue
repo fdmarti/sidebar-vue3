@@ -1,7 +1,7 @@
 <template>
-  <div class="">
+  <div>
     <NavbarComponent />
-    <div>
+    <div class="ml-16">
       <router-view></router-view>
     </div>
   </div>

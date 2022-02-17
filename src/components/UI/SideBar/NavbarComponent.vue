@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="bg-green-500 text-center text-white float-left min-h-screen z-10 top-0 left-0 bottom-0 p-2 flex flex-col transition-all duration-700 ease"
+    class="bg-green-500 text-center text-white float-left fixed md:static min-h-screen z-10 top-0 left-0 bottom-0 p-2 flex flex-col transition-all duration-700 ease"
     :class="sizeNavbar"
   >
     <h1 class="text-3xl pt-10">
