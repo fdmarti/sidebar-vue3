@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavbarComponent />
-    <div class="ml-16">
+    <div class="bg-green-100 min-h-screen">
       <router-view></router-view>
     </div>
   </div>
